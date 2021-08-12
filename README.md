@@ -51,7 +51,9 @@ Type the following into the CLI:
 
 This is a simple app to keep track of transactions. You can enter a name and an amount for a transaction and then choose whether to add those funds or subtract the funds. This transaction is reflected in the running total at top and also the graph below.
 
+```Deployed app:``` [https://secret-tor-89022.herokuapp.com/](https://secret-tor-89022.herokuapp.com/) 
 
+- - - 
 ## Questions
 
 If you have any questions you can find me on Github at [m-ray-ofSunshine](https://github.com/m-ray-ofSunshine)
